@@ -1,4 +1,4 @@
-## VisualVm-Junit 5
+## VisualVm - Junit 5
 
 ![enter image description here](src/main/resources/PID-1.jpg)
 
